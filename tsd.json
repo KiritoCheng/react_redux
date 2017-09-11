@@ -1,0 +1,72 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "react/react.d.ts": {
+      "commit": "ab67936d9b153b0f6c0ca958f0c98923e0d88625"
+    },
+    "react/react-global.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-create-fragment.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-dom.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-css-transition-group.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-perf.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-linked-state-mixin.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-transition-group.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-test-utils.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-pure-render-mixin.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react/react-addons-update.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "redux/redux.d.ts": {
+      "commit": "e325b363f5ee9c72ebde49f1e783ae725f64b7e2"
+    },
+    "react-router/history.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react-router-redux/react-router-redux.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react-router/react-router.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "whatwg-fetch/whatwg-fetch.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "react-redux/react-redux.d.ts": {
+      "commit": "dbb2d9f1f1f0e50a3530dcfc02944f492be246dd"
+    },
+    "node/node.d.ts": {
+      "commit": "2d448c0a3152e8871521848c5c2c61ab4e2a2cc9"
+    },
+    "material-ui/material-ui.d.ts": {
+      "commit": "ab67936d9b153b0f6c0ca958f0c98923e0d88625"
+    },
+    "redux-thunk/redux-thunk.d.ts": {
+      "commit": "e325b363f5ee9c72ebde49f1e783ae725f64b7e2"
+    }
+  }
+}
